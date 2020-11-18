@@ -7,4 +7,4 @@
 2. 3D reconstrcution
 ![eg2](misc/pc00.png)
 3. image stitching   
-![eg3](misc/stitched_img.png)
+![eg3](misc/stitched_img.jpg)
